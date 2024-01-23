@@ -1,0 +1,235 @@
+<d<div style="width: 1280px; height: 534px; padding-top: 23px; padding-bottom: 11px; padding-left: 49px; padding-right: 49px; background: rgba(255, 255, 255, 0); box-shadow: 0px 40px 22px -29px rgba(4, 10, 31, 0.08); border-radius: 50px; overflow: hidden; border: 1px #E0E0E0 solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+  <div style="width: 1190px; height: 500px; position: relative">
+    <div style="height: 500px; padding: 4px; left: 595px; top: -23px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: inline-flex">
+      <div style="height: 62px; padding-left: 319.14px; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: flex">
+        <div style="width: 181.06px; text-align: right; color: #333333; font-size: 26px; font-family: Inter; font-weight: 700; word-wrap: break-word">بیمه شخص ثالث</div>
+      </div>
+      <div style="align-self: stretch; height: 363px; padding-left: 43.50px; padding-right: 43.50px; flex-direction: column; justify-content: flex-start; align-items: center; display: flex">
+        <div style="width: 500px; height: 363px; position: relative">
+          <div style="height: 49px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+            <div style="width: 500px; height: 49px; padding-bottom: 15px; justify-content: flex-start; align-items: center; display: inline-flex">
+              <div style="padding-left: 4px; padding-right: 4px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="align-self: stretch; height: 30px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                  <div style="padding-left: 293.23px; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: flex">
+                    <div style="width: 198.97px; text-align: right; color: #333333; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word">پلاک خودرو موردنظر را انتخاب کنید:</div>
+                  </div>
+                  <div style="height: 20px; padding-top: 2px; padding-bottom: 2px; padding-left: 255.70px; justify-content: flex-end; align-items: flex-start; gap: 3.41px; display: inline-flex">
+                    <div style="width: 24.73px; text-align: right; color: #757575; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word">کنید.</div>
+                    <div style="width: 56.54px; text-align: right; color: #2341DF; font-size: 13px; font-family: Inter; font-weight: 400; word-wrap: break-word">اینجا کلیک</div>
+                    <div style="width: 148.40px; text-align: right; color: #757575; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word">در صورتی که شماره پلاک ندارید</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="height: 258px; left: 0px; top: 69px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+            <div style="width: 500px; padding-top: 70px; padding-bottom: 70px; justify-content: flex-start; align-items: center; display: inline-flex">
+              <div style="padding-left: 4px; padding-right: 4px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="align-self: stretch; height: 118px; padding-left: 111px; padding-right: 131px; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: flex">
+                  <div style="width: 250px; padding-bottom: 16px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="width: 250px; height: 46px; position: relative">
+                      <div style="width: 230px; height: 46px; padding-top: 0.60px; padding-bottom: 0.60px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+                        <div style="width: 230px; height: 44.81px; position: relative">
+                          <div style="width: 229px; height: 43.81px; left: 0.50px; top: 0.50px; position: absolute">
+                            <div style="width: 229px; height: 43.81px; left: 0px; top: 0px; position: absolute">
+                              <div style="width: 229px; height: 43.81px; left: 0px; top: 0px; position: absolute; background: white"></div>
+                              <div style="width: 229px; height: 43.81px; left: 0px; top: 0px; position: absolute; opacity: 0.30">
+                                <div style="width: 21.90px; height: 43.81px; left: 0px; top: 0px; position: absolute; background: #002F9C"></div>
+                                <div style="width: 229px; height: 43.81px; left: 0px; top: 0px; position: absolute; border: 1px #CCCCCC solid"></div>
+                                <div style="width: 0px; height: 42.81px; left: 176.23px; top: 0.50px; position: absolute; border: 1px #BBBBBB solid"></div>
+                                <div style="width: 13.94px; height: 14px; left: 4.98px; top: 24.62px; position: absolute; background: white"></div>
+                                <div style="width: 13.93px; height: 8.36px; left: 4.99px; top: 6.55px; position: absolute; background: white"></div>
+                                <div style="width: 13.93px; height: 2.79px; left: 4.99px; top: 12.13px; position: absolute; background: #DA0000"></div>
+                                <div style="width: 1.95px; height: 1.94px; left: 11.17px; top: 9.97px; position: absolute; background: #DA0000"></div>
+                                <div style="width: 13.94px; height: 2.85px; left: 4.98px; top: 6.55px; position: absolute; background: #239F40"></div>
+                                <div style="width: 13.93px; height: 0.51px; left: 4.99px; top: 12.13px; position: absolute; background: white"></div>
+                                <div style="width: 13.94px; height: 0.51px; left: 4.98px; top: 8.89px; position: absolute; background: white"></div>
+                                <div style="width: 30.59px; height: 5.97px; left: 187.19px; top: 3.10px; position: absolute">
+                                  <div style="width: 0px; height: 5.97px; left: 30.59px; top: -0px; position: absolute; border: 1px #707070 solid"></div>
+                                  <div style="width: 0px; height: 5.97px; left: 11.68px; top: -0px; position: absolute; border: 1px #707070 solid"></div>
+                                  <div style="width: 12.54px; height: 5.56px; left: 14.10px; top: 0px; position: absolute; border: 1px #707070 solid"></div>
+                                  <div style="width: 8.13px; height: 4.71px; left: 0px; top: 0.38px; position: absolute; border: 1px #707070 solid"></div>
+                                  <div style="width: 1.49px; height: 1.49px; left: 3.21px; top: 0.88px; position: absolute">
+                                    <div style="width: 1.49px; height: 1.49px; left: 0px; top: 0px; position: absolute; background: #4A4A4A"></div>
+                                    <div style="width: 0.50px; height: 0.50px; left: 0.50px; top: 0.50px; position: absolute; border: 1px #707070 solid"></div>
+                                  </div>
+                                  <div style="width: 1.49px; height: 1.49px; left: 22.13px; top: 3.87px; position: absolute">
+                                    <div style="width: 1.49px; height: 1.49px; left: 0px; top: 0px; position: absolute; background: #4A4A4A"></div>
+                                    <div style="width: 0.50px; height: 0.50px; left: 0.50px; top: 0.50px; position: absolute; border: 1px #707070 solid"></div>
+                                  </div>
+                                  <div style="width: 1.49px; height: 1.49px; left: 25.12px; top: 3.87px; position: absolute">
+                                    <div style="width: 1.49px; height: 1.49px; left: 0px; top: 0px; position: absolute; background: #4A4A4A"></div>
+                                    <div style="width: 0.50px; height: 0.50px; left: 0.50px; top: 0.50px; position: absolute; border: 1px #707070 solid"></div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div style="width: 229px; height: 43.81px; left: 0px; top: 0px; position: absolute; border: 1px #A0A0A0 solid"></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div style="width: 48px; height: 24px; padding-left: 4px; left: 131.28px; top: 11px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                        <div style="align-self: stretch; height: 24px; flex-direction: column; justify-content: center; align-items: center; display: flex">
+                          <div style="width: 24px; height: 24px; position: relative">
+                            <div style="width: 12px; height: 12px; left: 6px; top: 6px; position: absolute; background: #008FFF"></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div style="width: 60.75px; left: 90.73px; top: 14.50px; position: absolute; text-align: right; color: #008FFF; font-size: 14px; font-family: Inter; font-weight: 400; word-wrap: break-word">پلاک جدید</div>
+                    </div>
+                  </div>
+                  <div style="padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: center; display: flex">
+                    <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                      <div style="align-self: stretch; height: 46px; padding-left: 20px; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: flex">
+                        <div style="width: 230px; height: 46px; position: relative; border-radius: 5px">
+                          <div style="width: 230px; height: 46px; padding-top: 2px; padding-left: 2px; padding-right: 2px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                            <div style="width: 226px; height: 44.22px; position: relative">
+                              <div style="width: 226px; height: 44.22px; left: 0px; top: 0px; position: absolute">
+                                <div style="width: 226px; height: 25.55px; left: 0px; top: 0px; position: absolute; background: #F7F7F7"></div>
+                                <div style="width: 226px; height: 19.65px; left: 0px; top: 24.57px; position: absolute; background: rgba(255, 255, 255, 0.10)"></div>
+                                <div style="width: 20.63px; height: 24.57px; left: 0.98px; top: 0.98px; position: absolute; background: #002F9C; border: 0.98px #002F9C solid"></div>
+                                <div style="width: 226px; height: 44.22px; left: 0px; top: 0px; position: absolute">
+                                  <div style="width: 226px; height: 44.22px; left: 0px; top: 0px; position: absolute"></div>
+                                  <div style="width: 225.02px; height: 43.23px; left: 0.49px; top: 0.49px; position: absolute; border: 0.98px #CCCCCC solid"></div>
+                                </div>
+                                <div style="width: 0px; height: 25.55px; left: 146.41px; top: 0.49px; position: absolute; border: 0.98px #CCCCCC solid"></div>
+                                <div style="width: 203.40px; height: 0px; left: 22.11px; top: 25.55px; position: absolute; border: 0.98px #CCCCCC solid"></div>
+                                <div style="width: 13.75px; height: 8.25px; left: 4.43px; top: 8.65px; position: absolute; background: white"></div>
+                                <div style="width: 13.75px; height: 2.75px; left: 4.43px; top: 14.15px; position: absolute; background: #DA0000"></div>
+                                <div style="width: 1.92px; height: 1.91px; left: 10.53px; top: 12.02px; position: absolute; background: #DA0000"></div>
+                                <div style="width: 13.76px; height: 2.81px; left: 4.42px; top: 8.65px; position: absolute; background: #239F40"></div>
+                                <div style="width: 13.75px; height: 0.51px; left: 4.43px; top: 14.15px; position: absolute; background: white"></div>
+                                <div style="width: 13.76px; height: 0.51px; left: 4.42px; top: 10.96px; position: absolute; background: white"></div>
+                              </div>
+                              <div style="width: 29.48px; height: 5.90px; left: 188.67px; top: 10.81px; position: absolute">
+                                <div style="width: 0px; height: 5.90px; left: 29.48px; top: -0px; position: absolute; border: 0.98px #707070 solid"></div>
+                                <div style="width: 0px; height: 5.90px; left: 11.25px; top: -0px; position: absolute; border: 0.98px #707070 solid"></div>
+                                <div style="width: 12.38px; height: 5.49px; left: 13.20px; top: 0px; position: absolute; border: 0.98px #707070 solid"></div>
+                                <div style="width: 8.02px; height: 4.65px; left: -0px; top: 0.38px; position: absolute; border: 0.98px #707070 solid"></div>
+                                <div style="width: 1.47px; height: 1.47px; left: 3.17px; top: 0.87px; position: absolute">
+                                  <div style="width: 1.47px; height: 1.47px; left: 0px; top: 0px; position: absolute; background: #4A4A4A"></div>
+                                  <div style="width: 0.49px; height: 0.49px; left: 0.49px; top: 0.49px; position: absolute; border: 0.98px #707070 solid"></div>
+                                </div>
+                                <div style="width: 1.47px; height: 1.47px; left: 21.29px; top: 3.82px; position: absolute">
+                                  <div style="width: 1.47px; height: 1.47px; left: 0px; top: 0px; position: absolute; background: #4A4A4A"></div>
+                                  <div style="width: 0.49px; height: 0.49px; left: 0.49px; top: 0.49px; position: absolute; border: 0.98px #707070 solid"></div>
+                                </div>
+                                <div style="width: 1.47px; height: 1.47px; left: 24.07px; top: 3.82px; position: absolute">
+                                  <div style="width: 1.47px; height: 1.47px; left: 0px; top: 0px; position: absolute; background: #4A4A4A"></div>
+                                  <div style="width: 0.49px; height: 0.49px; left: 0.49px; top: 0.49px; position: absolute; border: 0.98px #707070 solid"></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div style="padding-left: 33px; padding-right: 54.09px; left: 2px; top: 2px; position: absolute; justify-content: flex-start; align-items: center; display: inline-flex">
+                            <div style="padding-right: 15px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                              <div style="flex-direction: column; justify-content: flex-start; align-items: center; display: flex">
+                                <div style="text-align: center; color: #424242; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 21.84px; word-wrap: break-word">34</div>
+                              </div>
+                            </div>
+                            <div style="padding-right: 16.03px; justify-content: flex-start; align-items: center; display: flex">
+                              <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+                                <div style="text-align: center; color: #424242; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 21.84px; word-wrap: break-word">ه</div>
+                              </div>
+                            </div>
+                            <div style="padding-right: 15px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                              <div style="flex-direction: column; justify-content: flex-start; align-items: center; display: flex">
+                                <div style="text-align: center; color: #424242; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 21.84px; word-wrap: break-word">874</div>
+                              </div>
+                            </div>
+                            <div style="width: 31.91px; padding-left: 14.56px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                              <div style="flex-direction: column; justify-content: flex-start; align-items: center; display: flex">
+                                <div style="text-align: center; color: #424242; font-size: 13.56px; font-family: Inter; font-weight: 400; line-height: 21.84px; word-wrap: break-word">63</div>
+                              </div>
+                            </div>
+                          </div>
+                          <div style="padding-right: 7px; left: 2px; top: 30px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                            <div style="padding-left: 120.66px; justify-content: flex-end; align-items: center; display: inline-flex">
+                              <div style="width: 98.54px; text-align: right; color: #757575; font-size: 11px; font-family: Inter; font-weight: 400; line-height: 17px; word-wrap: break-word">QUIK Rهاچ بک سايپا </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="width: 230px; left: 135px; top: 327px; position: absolute; justify-content: center; align-items: flex-start; display: inline-flex">
+            <div style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 6px; padding-bottom: 6px; background: #008FFF; border-radius: 8px; justify-content: center; align-items: center; display: flex">
+              <div style="width: 198px; height: 24px; padding-left: 22.13px; padding-right: 21.90px; justify-content: center; align-items: flex-start; gap: 0px; display: flex">
+                <div style="width: 28px; align-self: stretch; padding-right: 8px; justify-content: flex-start; align-items: center; display: inline-flex">
+                  <div style="width: 24px; align-self: stretch; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                    <div style="width: 24px; height: 24px; position: relative">
+                      <div style="width: 6px; height: 10px; left: 8px; top: 7px; position: absolute; background: white"></div>
+                    </div>
+                  </div>
+                </div>
+                <div style="width: 125.97px; text-align: center; color: white; font-size: 14px; font-family: Inter; font-weight: 500; text-transform: uppercase; line-height: 24px; word-wrap: break-word">ادامه و مقایسه بیمه‌ها</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="height: 370px; padding-top: 4px; padding-bottom: 4px; padding-left: 7.53px; padding-right: 7.52px; left: 0px; top: 65px; position: absolute; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+      <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="align-self: stretch; height: 250px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="width: 380px; height: 250px; flex-direction: column; justify-content: center; align-items: center; display: flex">
+            <div style="width: 380px; height: 250px; position: relative"></div>
+          </div>
+        </div>
+        <img style="width: 380px; height: 250px; position: relative" src="https://via.placeholder.com/380x250" />
+      </div>
+      <div style="padding-top: 16px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="padding-top: 12px; flex-direction: column; justify-content: center; align-items: center; display: flex">
+          <div style="padding-top: 24px; border-radius: 10px; justify-content: center; align-items: flex-start; display: inline-flex">
+            <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="width: 579.95px; align-self: stretch; padding-bottom: 8px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                  <div style="padding-top: 8px; padding-bottom: 8px; padding-left: 8px; padding-right: 13px; background: rgba(0, 143, 255, 0.10); border-radius: 5px; border-right: 5px #008FFF solid; justify-content: flex-start; align-items: center; display: inline-flex">
+                    <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+                      <div style="width: 435.15px; text-align: right; color: #040A1F; font-size: 11px; font-family: Inter; font-weight: 400; word-wrap: break-word"> قابل استفاده‌ است.۲۴ ثبت کنی، بیمه‌نامه امروز صادر می‌شه و از ساعت ۲۱اگه سفارشت رو تا ساعت </div>
+                    </div>
+                    <div style="width: 88px; align-self: stretch; padding-bottom: 9px; padding-left: 4px; padding-right: 4px; justify-content: center; align-items: center; display: inline-flex">
+                      <div style="flex: 1 1 0; align-self: stretch; padding-left: 8.77px; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+                        <div style="width: 71.43px; text-align: right; color: #757575; font-size: 11px; font-family: Inter; font-weight: 400; word-wrap: break-word">می‌دونستی که...</div>
+                      </div>
+                    </div>
+                    <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                      <div style="align-self: stretch; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                        <div style="width: 36px; height: 36px; flex-direction: column; justify-content: center; align-items: center; display: flex">
+                          <div style="width: 36px; height: 36px; position: relative"></div>
+                        </div>
+                      </div>
+                      <div style="width: 36px; height: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                        <div style="width: 36px; height: 36px; flex-direction: column; justify-content: center; align-items: center; display: flex">
+                          <div style="width: 36px; height: 36px; position: relative">
+                            <div style="width: 19.18px; height: 24px; left: 8.40px; top: 8.40px; position: absolute; background: #FFCC00"></div>
+                            <div style="width: 19.18px; height: 24px; left: 8.40px; top: 8.40px; position: absolute; background: linear-gradient(228deg, rgba(255, 165, 0, 0.40) 50%, rgba(250, 98, 28, 0.65) 60%, rgba(246, 45, 50, 0.84) 68%, rgba(244, 12, 64, 0.96) 75%, #F30045 78%)"></div>
+                            <div style="width: 19.18px; height: 24px; left: 8.40px; top: 8.40px; position: absolute; background: linear-gradient(44deg, rgba(255, 165, 0, 0.30) 25%, rgba(255, 168, 8, 0.31) 34%, rgba(255, 176, 32, 0.35) 45%, rgba(255, 190, 70, 0.41) 59%, rgba(255, 209, 124, 0.49) 73%, rgba(255, 233, 192, 0.60) 88%, rgba(255, 255, 255, 0.70) 100%)"></div>
+                            <div style="width: 2.20px; height: 1.27px; left: 16.08px; top: 11.33px; position: absolute; background: white"></div>
+                            <div style="width: 4.22px; height: 5.81px; left: 10.60px; top: 12.29px; position: absolute; background: white"></div>
+                            <div style="width: 1.80px; height: 3px; left: 17.09px; top: 3.90px; position: absolute; background: #FFCC00"></div>
+                            <div style="width: 2.81px; height: 3px; left: 8.17px; top: 6.76px; position: absolute; background: #FFCC00"></div>
+                            <div style="width: 3.33px; height: 2.08px; left: 3.60px; top: 14.71px; position: absolute; background: #FFCC00"></div>
+                            <div style="width: 3.35px; height: 2.06px; left: 28.45px; top: 14.66px; position: absolute; background: #FFCC00"></div>
+                            <div style="width: 2.81px; height: 3px; left: 24.39px; top: 6.72px; position: absolute; background: #FFCC00"></div>
+                            <div style="width: 7.93px; height: 8.33px; left: 14.03px; top: 22.27px; position: absolute; background: #333333"></div>
+                            <div style="width: 7.20px; height: 3.60px; left: 14.40px; top: 30px; position: absolute; background: white"></div>
+                            <div style="width: 8.10px; height: 4.50px; left: 13.95px; top: 29.55px; position: absolute; background: #333333"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
